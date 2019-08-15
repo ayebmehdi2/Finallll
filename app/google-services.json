@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333498687622",
+    "firebase_url": "https://blood-fff9b.firebaseio.com",
+    "project_id": "blood-fff9b",
+    "storage_bucket": "blood-fff9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333498687622:android:7bd84e187e764f25",
+        "android_client_info": {
+          "package_name": "com.mehdi.firstindellpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333498687622-2sg0gan6n7ejeoaqc8dmg9tqb5qe5bm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehdi.firstindellpc",
+            "certificate_hash": "0b88850bfed567bfbb5f541a8ec36c5a90431750"
+          }
+        },
+        {
+          "client_id": "333498687622-oknp975h1p1b5oh2gno04tg5iotjqj7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jb7rxO1yRhJybT9ZfgiIRXZaHTSlR3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333498687622-oknp975h1p1b5oh2gno04tg5iotjqj7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
